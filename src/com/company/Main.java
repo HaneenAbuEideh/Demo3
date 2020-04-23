@@ -30,6 +30,7 @@ public class Main {
             }
 
         }
+        System.out.print(cnt);
         return cnt;// return result
 
     }
