@@ -30,6 +30,7 @@ public class Main {
             }
 
         }
+        System.out.print("Thank you for using the function");
         return cnt;// return result
 
     }
